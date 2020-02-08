@@ -1,0 +1,17 @@
+
+Executed on: 29092019_224608	Test Name: postTest Has passed
+Executed on: 29092019_224608	Test Name: commentTest Has passed
+Executed on: 29092019_224608	Test Name: getPostTest Has passed
+Executed on: 29092019_224608	Test Name: getCommentTest Has passed
+Executed on: 29092019_225449	Test Name: postTest Has passed
+Executed on: 29092019_225449	Test Name: commentTest Has passed
+Executed on: 29092019_225449	Test Name: getPostTest Has failed
+Executed on: 29092019_225449	Test Name: getCommentTest Has failed
+Executed on: 27012020_225445	Test Name: postTest Has failed
+Executed on: 27012020_225445	Test Name: commentTest Has failed
+Executed on: 27012020_225445	Test Name: getPostTest Has passed
+Executed on: 27012020_225445	Test Name: getCommentTest Has passed
+Executed on: 27012020_225559	Test Name: postTest Has passed
+Executed on: 27012020_225559	Test Name: commentTest Has passed
+Executed on: 27012020_225559	Test Name: getPostTest Has passed
+Executed on: 27012020_225559	Test Name: getCommentTest Has passed

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5646" started-at="2020-01-27T22:55:59Z" finished-at="2020-01-27T22:56:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5646" started-at="2020-01-27T22:55:59Z" finished-at="2020-01-27T22:56:04Z">
+      <class name="com.restassured.api.tests.PostGetTest">
+        <test-method status="PASS" signature="postTest()[pri:0, instance:com.restassured.api.tests.PostGetTest@20ce78ec]" name="postTest" duration-ms="4580" started-at="2020-01-27T22:55:59Z" finished-at="2020-01-27T22:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTest -->
+        <test-method status="PASS" signature="commentTest()[pri:1, instance:com.restassured.api.tests.PostGetTest@20ce78ec]" name="commentTest" duration-ms="593" started-at="2020-01-27T22:56:03Z" finished-at="2020-01-27T22:56:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commentTest -->
+        <test-method status="PASS" signature="getPostTest()[pri:2, instance:com.restassured.api.tests.PostGetTest@20ce78ec]" name="getPostTest" duration-ms="214" started-at="2020-01-27T22:56:04Z" finished-at="2020-01-27T22:56:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPostTest -->
+        <test-method status="PASS" signature="getCommentTest()[pri:3, instance:com.restassured.api.tests.PostGetTest@20ce78ec]" name="getCommentTest" duration-ms="178" started-at="2020-01-27T22:56:04Z" finished-at="2020-01-27T22:56:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCommentTest -->
+      </class> <!-- com.restassured.api.tests.PostGetTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
